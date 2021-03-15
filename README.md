@@ -2,6 +2,4 @@
 
 # usage
 
-# $ apt update && apt upgrade
-
-# $ pkg install git
+• apt upgrade
