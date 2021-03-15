@@ -1,5 +1,15 @@
-# Snake-Game
+## Snake-Game
 
-# usage
+* [+] to play game you have a hacker keyword ! 
+* [+] another wise snake is not go left right !
+* [+] Thank ! 
 
-• $apt upgrade
+## INSTALLATION [Termux] :
+
+* 'apt update && apt upgrade'
+* 'pkg install git'
+* 'git clone https://github.com/D17NO/Snake-Game'
+* 'cd $HOME'
+* 'bash D17NO-Game.sh'
+
+# Thanks for usage this git
