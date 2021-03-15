@@ -2,5 +2,4 @@
 
 # usage
 
-•apt upgrade
-
+• $apt upgrade
